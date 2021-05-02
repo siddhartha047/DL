@@ -24,7 +24,7 @@ pip install ipynb
 ### Parameters
 ```X``` - The feature
 
-```y``` - The output dimension of the transformed feature representation, change this accordingly
+```y``` - labels, not necessary only useful if used for visualization
 
 
 ```dim``` - The output dimension of the transformed feature representation, change this accordingly
